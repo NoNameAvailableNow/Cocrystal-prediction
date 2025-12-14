@@ -1,0 +1,1 @@
+{'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (20,), 'learning_rate_init': 0.001}

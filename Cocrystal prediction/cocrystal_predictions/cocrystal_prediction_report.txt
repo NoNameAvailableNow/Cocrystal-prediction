@@ -1,0 +1,53 @@
+======================================================================
+           API-CCF Cocrystal Formation Prediction Report
+======================================================================
+Time: 2025-12-13 23:22:53
+number of API-CCF: 46
+
+Cocrystal Formation Prediction Results Statistics:
+  - success (1): 38 对 (82.6%)
+  - unsuccess (0): 8 对 (17.4%)
+
+Prediction Confidence Statistics:
+  - high: 19 对 (41.3%)
+  - medium: 19 对 (41.3%)
+  - low: 8 对 (17.4%)
+
+Cocrystal Formation Probability Segmentation Statistics:
+  - 0-0.2: 0 对 (0.0%)
+  - 0.2-0.3: 3 对 (6.5%)
+  - 0.3-0.4: 0 对 (0.0%)
+  - 0.4-0.5: 5 对 (10.9%)
+  - 0.5-0.7: 19 对 (41.3%)
+  - 0.7-1.0: 19 对 (41.3%)
+
+Most probability of cocrystal:
+  1. AML + Benzene sulfonamide: 0.965 (high)
+  2. AML + 4,.4'-bipyridine: 0.938 (high)
+  3. AML + im: 0.919 (high)
+  4. AML + Imidazole: 0.919 (high)
+  5. AML + Methanesulfonic acid: 0.878 (high)
+  6. AML + 4-acetophenetidide: 0.865 (high)
+  7. AML + N-phenylacetamide: 0.864 (high)
+  8. AML + Succinimide: 0.859 (high)
+  9. AML + 3,5-difluorobenzoic acid: 0.851 (high)
+  10. AML + 3,5-dihydroxybenzoic acid: 0.798 (high)
+
+Least probability of cocrystal:
+  1. AML + DL-malic acid: 0.548 (medium)
+  2. AML + Salicylamide: 0.527 (medium)
+  3. AML + Sarcosine: 0.491 (low)
+  4. AML + Benzamide: 0.476 (low)
+  5. AML + L-Glu: 0.443 (low)
+  6. AML + Maleic acid: 0.422 (low)
+  7. AML + pgs: 0.412 (low)
+  8. AML + D2: 0.291 (low)
+  9. AML + Succinic acid: 0.291 (low)
+  10. AML + B2: 0.262 (low)
+
+probability of cocrystal formation:
+  - Average: 0.656
+  - Standard: 0.172
+  - Median: 0.655
+  - Maximum: 0.965
+  - Minimum: 0.262
